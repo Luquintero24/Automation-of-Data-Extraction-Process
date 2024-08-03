@@ -1,0 +1,7 @@
+version: "3"
+services:
+  new-bol:
+    image: new-bol:latest
+    network_mode: "host"
+    env_file:
+      - .env
