@@ -1,4 +1,4 @@
-# intern-bol-project
+# Automation of Invoices Data Extraction
 
 # The project involves developing a data extraction and clustering system for processing diverse invoice formats. Key components included AWS services like S3 for storing image data and Textract for extracting text. Docker was used for containerization, ensuring a consistent and scalable deployment environment. PostgreSQL, paired with SQLAlchemy, served as the database and ORM for efficient data storage and querying. Machine learning algorithms played a crucial role, with the TF-IDF Vectorizer used for text preprocessing and K-Means Clustering employed to categorize invoices into distinct templates. Python libraries like Pandas, Matplotlib, Boto3, and Pillow were integral for data manipulation, visualization, AWS interaction, and image processing.
 
